@@ -3,9 +3,9 @@ package SolveLEETCODE;
 // we are going to create the customSortString function to get through the problem , so lets begin
 import java.util.HashMap;
 import java.util.Map;
-import java.util.PriorityQueue;
+// import java.util.PriorityQueue;
 class customSortString {
-    static String customeString(String order, String s) {
+    public String customeString(String order, String s) {
         // count the characters of the s that you are gonna sort as per order string
         // characters
         // for that Create HashMap
