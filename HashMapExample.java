@@ -1,3 +1,4 @@
+package SolveLEETCODE;
 import java.util.HashMap;
 
 public class HashMapExample {

@@ -1,10 +1,11 @@
+package SolveLEETCODE;
 // this is the leetcode of medium and this program given an  binary array  we have to make all the ones in the distinct position so that they are all at same side or adjacent using the  circular array nature 
 // example array  => nums = [0,1,0,1,1,0,1]
 // lets try the code.
 // Create a function that take an array as a  input and return the minswaps in array to be taken
 class Solution{
 
-    static int minSwap(int [] nums){
+    public int minSwap(int [] nums){
         int n = nums.length;
         int totalOnes = 0;// intialize the 1's counter in the array.
         // Below loop will count  the 1's
