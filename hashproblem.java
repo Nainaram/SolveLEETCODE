@@ -1,4 +1,4 @@
-package SolveLEETCODE;
+// package SolveLEETCODE;
 // this is leetcode problem that  having a string order of specific allocation of the character and another string s which also need to be in the same order of the characters present inthe order string 
 // we are going to create the customSortString function to get through the problem , so lets begin
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package SolveLEETCODE;
+// package SolveLEETCODE;
 // this is code ,  checks that a array of strings having a details of a senior citizen like phonenum,age,gender ,seatno. 
 // problem is to count the number of citizen greater than age 60;
 class Solution{

@@ -1,4 +1,4 @@
-package SolveLEETCODE;
+// package SolveLEETCODE;
 // this is the leetcode of medium and this program given an  binary array  we have to make all the ones in the distinct position so that they are all at same side or adjacent using the  circular array nature 
 // example array  => nums = [0,1,0,1,1,0,1]
 // lets try the code.
