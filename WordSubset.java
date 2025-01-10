@@ -11,7 +11,7 @@ public class WordSubset {
 
 
     public static List<String> wordSubsets(String[] words1, String[] words2) {
-        List<String> universalWords = new ArrayList<>();
+        List<String> universalWords = new ArrayList<>();max
 
         // Step 1: Calculate the maximum frequency for each character in words2
         int[] maxFreq = new int[26];
